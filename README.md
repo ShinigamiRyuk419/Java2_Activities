@@ -1,5 +1,5 @@
 # Java2_Activities
-Contains all the final activities in my java2
+Contains the activity on Employees' salary computation
 
 
 This activity serve as the review on how Object-Oriented Programming in java works. This also includes the concept of
